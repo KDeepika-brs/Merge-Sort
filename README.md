@@ -4,4 +4,4 @@
 
 ##### Then, it uses the merge function to combine and sort the divided arrays. The final sorted array is returned. Merge Sort is an efficient sorting algorithm with a time complexity of O(n log n) in the average and worst cases.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Merge-Sort/).
